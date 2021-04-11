@@ -60,4 +60,6 @@
 #sidebar .toggle-btn:hover {background-color: #556270}
 #sidebar .toggle-btn:hover span {background-color: #fafafa}
 
-#sidebar .active
+#sidebar.active{
+    left: 0px;
+}
