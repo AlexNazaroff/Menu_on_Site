@@ -9,7 +9,8 @@
     width: 250px;
     height: 100%;
     background: #57626F;
-    border-right: 4px solid #E0ESEA;
+    border-right: 4px solid #E0E5EA;
+    left: -254px ;
 }
 
 #sidebar ul li:first-child {
@@ -55,3 +56,8 @@
     background-color: #667;
     margin: 4px 0;
 }
+
+#sidebar .toggle-btn:hover {background-color: #556270}
+#sidebar .toggle-btn:hover span {background-color: #fafafa}
+
+#sidebar .active
