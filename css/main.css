@@ -19,3 +19,20 @@
     list-style: none;
     padding: 25px 10px 10px 10px;
 }
+
+#sidebar ul li:not(:first-child) {
+    width: 90%;
+    margin-left: 10%;
+    font-size: 1.1em;
+    list-style: none;
+    padding: 15px 10px;
+}
+
+#sidebar ul li a {
+    color: #dfe5eb;
+    text-decoration: none;
+}
+
+#sidebar ul li a:hover {
+    color: #59e9df;
+}
