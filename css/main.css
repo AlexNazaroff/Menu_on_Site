@@ -36,3 +36,14 @@
 #sidebar ul li a:hover {
     color: #59e9df;
 }
+
+/*button*//**/
+#sidebar .toggle-btn {
+    position: absolute;
+    left: 270px;
+    top: 20px;
+    background: #e0e5ea;
+    padding: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+}
